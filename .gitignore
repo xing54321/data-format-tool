@@ -1,0 +1,6 @@
+.idea # python中的一个隐藏文件，自动生成的，不需要提交
+*.git/* #一些没有用的附带文件，直接忽略即可
+*target/*
+*.settings/*
+*.classpath
+*.project
