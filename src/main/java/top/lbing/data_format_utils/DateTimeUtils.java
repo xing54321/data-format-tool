@@ -14,7 +14,7 @@ import java.util.regex.Pattern;
 
 /**
  * 日期与毫秒级时间戳转化工具类
- * @author Libing
+ * @author xing54321
  *
  */
 public class DateTimeUtils {
